@@ -6,3 +6,7 @@ p {
 .size-up {
     font-size: 24px;
 }
+
+#blue-one {
+    color:hsla(225,80%,40%,0.6); font-size: 36px;
+}
