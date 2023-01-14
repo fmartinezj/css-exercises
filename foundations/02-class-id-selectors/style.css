@@ -1,6 +1,6 @@
-p {
+.odd {
     background-color:hsla(345,100%,70%,0.45); 
-    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .size-up {
